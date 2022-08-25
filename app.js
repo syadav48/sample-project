@@ -1,0 +1,1 @@
+document.getElementById('div').innerHTML() = 'Hello Git'
